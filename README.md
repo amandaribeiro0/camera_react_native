@@ -7,10 +7,10 @@
 ## ✅ Demonstração
 
 <div display='flex'>
-  <img src="https://github.com/guigams/Camera-React-Native/blob/main/images/camera.png" height="500"/>
-  <img src="https://github.com/guigams/Camera-React-Native/blob/main/images/saveordelete.png" height="500"/>
-<img src="https://github.com/guigams/Camera-React-Native/blob/main/images/alertforsave.png" height="500"/>
-<img src="https://github.com/guigams/Camera-React-Native/blob/main/images/result.png" height="500"/>
+  <img src="https://github.com/amandaribeiro0/camera_react_native/blob/main/Camera-React-Native-main/images/camera.png" height="400"/>
+  <img src="https://github.com/amandaribeiro0/camera_react_native/blob/main/Camera-React-Native-main/images/saveordelete.png" height="400"/>
+<img src="https://github.com/amandaribeiro0/camera_react_native/blob/main/Camera-React-Native-main/images/alertforsave.png" height="400"/>
+<img src="https://github.com/amandaribeiro0/camera_react_native/blob/main/Camera-React-Native-main/images/result.png" height="400"/>
 
 </div>
 
